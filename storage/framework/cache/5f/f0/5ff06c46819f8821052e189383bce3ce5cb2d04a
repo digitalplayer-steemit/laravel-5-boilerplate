@@ -1,4 +1,4 @@
-1521388086a:1:{s:11:"default.htm";a:6:{s:8:"fileName";s:11:"default.htm";s:7:"content";s:2018:"description = "Default layout"
+1521393684a:1:{s:11:"default.htm";a:6:{s:8:"fileName";s:11:"default.htm";s:7:"content";s:2018:"description = "Default layout"
 ==
 <!doctype html>
 <html lang="en">
@@ -11,14 +11,13 @@
         <meta name="author" content="{{ this.theme.website_author }}">
         <link rel="icon" type="image/png" href="{{ 'assets/images/october.png'|theme }}">
         <link href="{{ 'assets/css/main.css'|theme }}" rel="stylesheet">
-
         {% styles %}
         {% if this.theme.custom_css %}
         <style>
             {{ this.theme.custom_css }}
         </style>
         {% endif %}
-        <title>{% if this.page.title %}{{ this.page.title }}{% else %}{{ this.theme.meta_title }}{% endif %}  {{ this.theme.website_name }}</title>
+        <title>{% if this.page.title %}{{ this.page.title }}{% else %}{{ this.theme.meta_title }}{% endif %} - {{ this.theme.website_name }}</title>
     </head>
     <body class="layout-{{ this.layout.id }} page-{{ this.layout.id }}">
         <div id="global-header" class="global-header">
@@ -45,7 +44,7 @@
         {% endif %}
     </body>
 
-</html>";s:5:"mtime";i:1521290383;s:6:"markup";s:1984:"<!doctype html>
+</html>";s:5:"mtime";i:1520985429;s:6:"markup";s:1984:"<!doctype html>
 <html lang="en">
     <head>
         <meta charset="utf-8">
@@ -56,14 +55,13 @@
         <meta name="author" content="{{ this.theme.website_author }}">
         <link rel="icon" type="image/png" href="{{ 'assets/images/october.png'|theme }}">
         <link href="{{ 'assets/css/main.css'|theme }}" rel="stylesheet">
-
         {% styles %}
         {% if this.theme.custom_css %}
         <style>
             {{ this.theme.custom_css }}
         </style>
         {% endif %}
-        <title>{% if this.page.title %}{{ this.page.title }}{% else %}{{ this.theme.meta_title }}{% endif %}  {{ this.theme.website_name }}</title>
+        <title>{% if this.page.title %}{{ this.page.title }}{% else %}{{ this.theme.meta_title }}{% endif %} - {{ this.theme.website_name }}</title>
     </head>
     <body class="layout-{{ this.layout.id }} page-{{ this.layout.id }}">
         <div id="global-header" class="global-header">

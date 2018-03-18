@@ -1,0 +1,22 @@
+{
+  "name": "oc-bootstrap-v4-starter-kit",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Sergey Sukhorukov"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mrsukhorukov/oc-bootstrap-v4-starter-kit",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/src/bower_components/",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "v4.0.0",
+    "popper.js": "^1.14.1"
+  }
+}

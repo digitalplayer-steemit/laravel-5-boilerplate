@@ -1,26 +1,40 @@
-1521388086a:1:{s:15:"global/home.htm";a:8:{s:8:"fileName";s:15:"global/home.htm";s:7:"content";s:430:"title = "Metron"
+1521393684a:1:{s:15:"global/home.htm";a:9:{s:8:"fileName";s:15:"global/home.htm";s:7:"content";s:1107:"title = "Home"
 url = "/"
 layout = "default"
+is_hidden = 0
 ==
-<div class="container">
-    <div class="row">
-        <div class="col-lg-12 text-center">
-            <h1 class="mt-5">Metron - Coming Soon</h1>
-            <p class="lead">Community-Driven Platform to Discover, Rate and Promote Steem Content</p>
-            <ul class="list-unstyled">
-                <li>Powered by Laravel</li>
-            </ul>
+<div class="the-intro d-flex align-items-center mt-5">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-6 mx-auto col-md-6 order-md-2">
+                <img class="img-fluid mb-3 mb-md-0" src="https://getbootstrap.com/assets/img/bootstrap-stack.png" alt="" width="1024" height="860">
+            </div>
+            <div class="col-md-6 order-md-1 text-center text-md-left pr-md-5">
+                <h1 class="mb-3 bd-text-purple-bright">Coming Soon</h1>
+                <p class="lead">
+                    Community-Driven Platform to Discover, Rate and Promote Steem Content
+                </p>
+                <div class="d-flex flex-column flex-md-row lead mb-3">
+                    <a href="https://steemit.com/open-source/@digitalplayer/introducing-metron-project-a-platform-to-discover-rate-and-promote" target="_blank" class="btn btn-lg btn-outline-primary mb-3 mb-md-0 mr-md-3">Read More</a>
+                </div>
+            </div>
         </div>
     </div>
-</div>
-";s:5:"mtime";i:1521290352;s:6:"markup";s:380:"<div class="container">
-    <div class="row">
-        <div class="col-lg-12 text-center">
-            <h1 class="mt-5">Metron - Coming Soon</h1>
-            <p class="lead">Community-Driven Platform to Discover, Rate and Promote Steem Content</p>
-            <ul class="list-unstyled">
-                <li>Powered by Laravel</li>
-            </ul>
+</div>";s:5:"mtime";i:1521393081;s:6:"markup";s:1046:"<div class="the-intro d-flex align-items-center mt-5">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-6 mx-auto col-md-6 order-md-2">
+                <img class="img-fluid mb-3 mb-md-0" src="https://getbootstrap.com/assets/img/bootstrap-stack.png" alt="" width="1024" height="860">
+            </div>
+            <div class="col-md-6 order-md-1 text-center text-md-left pr-md-5">
+                <h1 class="mb-3 bd-text-purple-bright">Coming Soon</h1>
+                <p class="lead">
+                    Community-Driven Platform to Discover, Rate and Promote Steem Content
+                </p>
+                <div class="d-flex flex-column flex-md-row lead mb-3">
+                    <a href="https://steemit.com/open-source/@digitalplayer/introducing-metron-project-a-platform-to-discover-rate-and-promote" target="_blank" class="btn btn-lg btn-outline-primary mb-3 mb-md-0 mr-md-3">Read More</a>
+                </div>
+            </div>
         </div>
     </div>
-</div>";s:4:"code";N;s:5:"title";s:6:"Metron";s:3:"url";s:1:"/";s:6:"layout";s:7:"default";}}
+</div>";s:4:"code";N;s:5:"title";s:4:"Home";s:3:"url";s:1:"/";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}

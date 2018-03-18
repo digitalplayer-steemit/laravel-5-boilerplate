@@ -132,4 +132,9 @@
   'Backend\\Widgets\\Lists' => 'modules/backend/widgets/Lists.php',
   'Backend\\Widgets\\Toolbar' => 'modules/backend/widgets/Toolbar.php',
   'Backend\\Classes\\ListColumn' => 'modules/backend/classes/ListColumn.php',
+  'Backend\\FormWidgets\\DataTable' => 'modules/backend/formwidgets/DataTable.php',
+  'Backend\\Widgets\\Table' => 'modules/backend/widgets/Table.php',
+  'Backend\\Widgets\\Table\\DataSourceBase' => 'modules/backend/widgets/table/DataSourceBase.php',
+  'Backend\\Widgets\\Table\\ClientMemoryDataSource' => 'modules/backend/widgets/table/ClientMemoryDataSource.php',
+  'Backend\\FormWidgets\\ColorPicker' => 'modules/backend/formwidgets/ColorPicker.php',
 );

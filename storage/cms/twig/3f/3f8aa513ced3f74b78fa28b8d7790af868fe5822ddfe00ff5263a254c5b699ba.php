@@ -21,7 +21,7 @@ class __TwigTemplate_f1c7ad8d5f9377b290431e1b8a6b8477c8d560d78c49705efa4272191ec
         <a class=\"navbar-brand\" href=\"";
         // line 3
         echo $this->env->getExtension('Cms\Twig\Extension')->pageFilter("global/home");
-        echo "\">Bootstrap Starter Kit</a>
+        echo "\">Metron</a>
         <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbar\" aria-controls=\"navbar\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">
             <span class=\"navbar-toggler-icon\"></span>
         </button>
@@ -58,7 +58,7 @@ class __TwigTemplate_f1c7ad8d5f9377b290431e1b8a6b8477c8d560d78c49705efa4272191ec
     {
         return new Twig_Source("<nav class=\"navbar navbar-autohide navbar-expand-lg navbar-light bg-white fixed-top\">
     <div class=\"container\">
-        <a class=\"navbar-brand\" href=\"{{ 'global/home'|page }}\">Bootstrap Starter Kit</a>
+        <a class=\"navbar-brand\" href=\"{{ 'global/home'|page }}\">Metron</a>
         <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbar\" aria-controls=\"navbar\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">
             <span class=\"navbar-toggler-icon\"></span>
         </button>

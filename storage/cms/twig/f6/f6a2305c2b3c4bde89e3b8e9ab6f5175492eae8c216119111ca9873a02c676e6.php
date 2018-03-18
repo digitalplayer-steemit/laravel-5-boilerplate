@@ -23,15 +23,12 @@ class __TwigTemplate_822522bb4804ff2acdb60cff61396ffd9aea101507be9589340d3defc74
                 <img class=\"img-fluid mb-3 mb-md-0\" src=\"https://getbootstrap.com/assets/img/bootstrap-stack.png\" alt=\"\" width=\"1024\" height=\"860\">
             </div>
             <div class=\"col-md-6 order-md-1 text-center text-md-left pr-md-5\">
-                <h1 class=\"mb-3 bd-text-purple-bright\">Bootstrap Starter Kit</h1>
+                <h1 class=\"mb-3 bd-text-purple-bright\">Coming Soon</h1>
                 <p class=\"lead\">
-                    Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
-                </p>
-                <p class=\"lead mb-4\">
-                    Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
+                    Community-Driven Platform to Discover, Rate and Promote Steem Content
                 </p>
                 <div class=\"d-flex flex-column flex-md-row lead mb-3\">
-                    <a href=\"https://getbootstrap.com/docs/4.0/getting-started/introduction/\" target=\"_blank\" class=\"btn btn-lg btn-outline-primary mb-3 mb-md-0 mr-md-3\">Get started</a>
+                    <a href=\"https://steemit.com/open-source/@digitalplayer/introducing-metron-project-a-platform-to-discover-rate-and-promote\" target=\"_blank\" class=\"btn btn-lg btn-outline-primary mb-3 mb-md-0 mr-md-3\">Read More</a>
                 </div>
             </div>
         </div>
@@ -58,15 +55,12 @@ class __TwigTemplate_822522bb4804ff2acdb60cff61396ffd9aea101507be9589340d3defc74
                 <img class=\"img-fluid mb-3 mb-md-0\" src=\"https://getbootstrap.com/assets/img/bootstrap-stack.png\" alt=\"\" width=\"1024\" height=\"860\">
             </div>
             <div class=\"col-md-6 order-md-1 text-center text-md-left pr-md-5\">
-                <h1 class=\"mb-3 bd-text-purple-bright\">Bootstrap Starter Kit</h1>
+                <h1 class=\"mb-3 bd-text-purple-bright\">Coming Soon</h1>
                 <p class=\"lead\">
-                    Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
-                </p>
-                <p class=\"lead mb-4\">
-                    Bootstrap is an open source toolkit for developing with HTML, CSS, and JS. Quickly prototype your ideas or build your entire app with our Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful plugins built on jQuery.
+                    Community-Driven Platform to Discover, Rate and Promote Steem Content
                 </p>
                 <div class=\"d-flex flex-column flex-md-row lead mb-3\">
-                    <a href=\"https://getbootstrap.com/docs/4.0/getting-started/introduction/\" target=\"_blank\" class=\"btn btn-lg btn-outline-primary mb-3 mb-md-0 mr-md-3\">Get started</a>
+                    <a href=\"https://steemit.com/open-source/@digitalplayer/introducing-metron-project-a-platform-to-discover-rate-and-promote\" target=\"_blank\" class=\"btn btn-lg btn-outline-primary mb-3 mb-md-0 mr-md-3\">Read More</a>
                 </div>
             </div>
         </div>
