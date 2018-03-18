@@ -1,0 +1,26 @@
+1521388086a:1:{s:15:"global/home.htm";a:8:{s:8:"fileName";s:15:"global/home.htm";s:7:"content";s:430:"title = "Metron"
+url = "/"
+layout = "default"
+==
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h1 class="mt-5">Metron - Coming Soon</h1>
+            <p class="lead">Community-Driven Platform to Discover, Rate and Promote Steem Content</p>
+            <ul class="list-unstyled">
+                <li>Powered by Laravel</li>
+            </ul>
+        </div>
+    </div>
+</div>
+";s:5:"mtime";i:1521290352;s:6:"markup";s:380:"<div class="container">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h1 class="mt-5">Metron - Coming Soon</h1>
+            <p class="lead">Community-Driven Platform to Discover, Rate and Promote Steem Content</p>
+            <ul class="list-unstyled">
+                <li>Powered by Laravel</li>
+            </ul>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:5:"title";s:6:"Metron";s:3:"url";s:1:"/";s:6:"layout";s:7:"default";}}

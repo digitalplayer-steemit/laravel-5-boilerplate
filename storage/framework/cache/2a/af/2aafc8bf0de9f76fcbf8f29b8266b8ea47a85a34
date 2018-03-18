@@ -1,0 +1,52 @@
+1521388086a:1:{s:17:"global/header.htm";a:6:{s:8:"fileName";s:17:"global/header.htm";s:7:"content";s:1305:"description = "Site Header"
+==
+
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="{{ 'global/home'|page }}">Metron</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="{{ 'global/home'|page }}">Home
+                        <span class="sr-only">(current)</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" target="?" href="https://steemit.com/open-source/@digitalplayer/introducing-metron-project-a-platform-to-discover-rate-and-promote">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" target="?" href="https://github.com/digitalplayer-steemit/metron">Github</a>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+</nav>";s:5:"mtime";i:1521289833;s:6:"markup";s:1273:"<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="{{ 'global/home'|page }}">Metron</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="{{ 'global/home'|page }}">Home
+                        <span class="sr-only">(current)</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" target="?" href="https://steemit.com/open-source/@digitalplayer/introducing-metron-project-a-platform-to-discover-rate-and-promote">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" target="?" href="https://github.com/digitalplayer-steemit/metron">Github</a>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+</nav>";s:4:"code";N;s:11:"description";s:11:"Site Header";}}
