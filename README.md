@@ -51,9 +51,11 @@ CMS local configuration starter (it might take a couple of minutes)
 ```
 php artisan october:install
 ```
-Follow the instructions on screen, 
-on database question complete with metrondb name, proceed with default values except application url which should correspond to your local copy then proceed,
-as you can see on screen "Seeded Backend" the database is fully populated.
+
+For the first question type "yes" to proceed with installation and follow the instructions on screen proceeding with default values until database.
+On database question complete with metrondb name, 
+proceed with default values except application url which should correspond to the machine paths,
+as you can see on screen "Seeded Backend" the database is fully populated and you can pass to the next step.
 
 
 
