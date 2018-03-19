@@ -11,8 +11,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ```
-    - LAMP env.
+    - LAMP env. and GIT
     - PHP >= 7.1.3
+    - Composer for PHP
     - OpenSSL PHP Extension
     - PDO PHP Extension
     - Mbstring PHP Extension
@@ -40,7 +41,7 @@ Create Mysql Database
 mysql -u yourmysqlusername -p
 *follow instruction on screen, as logged in proceed with:*
 CREATE DATABASE metrondb;
-exit;
+exit
 ```
 *yourmysqlusername in most cases is root and the password not existent.
 
