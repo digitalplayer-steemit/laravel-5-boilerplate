@@ -11,7 +11,7 @@ return [
     |
     */
 
-    'activeTheme' => 'demo',
+    'activeTheme' => 'oc-bootstrap-v4-starter-kit-master',
 
     /*
     |--------------------------------------------------------------------------

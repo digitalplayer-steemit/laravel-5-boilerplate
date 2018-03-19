@@ -28,7 +28,7 @@ return [
     | any other location as required by the application or its packages.
     */
 
-    'name' => 'October CMS',
+    'name' => 'Metron',
 
     /*
     |--------------------------------------------------------------------------
@@ -41,7 +41,7 @@ return [
     |
     */
 
-    'url' => 'http://localhost/apps/metron/',
+    'url' => 'http://localhost/apps/newbuild/metron/',
 
     /*
     |--------------------------------------------------------------------------
@@ -93,7 +93,7 @@ return [
     |
     */
 
-    'key' => '72pmu3N4jCYXEp0IdveFEhnZtRIuzlsm',
+    'key' => 'Wdu1ps6dPtynSfVei9r19xcXQzyWZf4D',
 
     'cipher' => 'AES-256-CBC',
 
