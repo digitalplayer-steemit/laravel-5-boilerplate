@@ -24,7 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
     - CURL PHP Extension
 ```
 
-### Installing
+### Installation
 
 A step by step series of instructions that tell you how to get a development copy running
 
