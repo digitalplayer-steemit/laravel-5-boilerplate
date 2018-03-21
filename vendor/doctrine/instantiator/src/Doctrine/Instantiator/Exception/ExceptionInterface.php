@@ -17,25 +17,13 @@
  * <http://www.doctrine-project.org>.
  */
 
-namespace Doctrine\Common\Cache;
+namespace Doctrine\Instantiator\Exception;
 
 /**
- * Interface for cache drivers that allows to get many items at once.
+ * Base exception marker interface for the instantiator component
  *
- * @link   www.doctrine-project.org
- * @since  1.4
- * @author Asmir Mustafic <goetas@gmail.com>
- *
- * @deprecated
+ * @author Marco Pivetta <ocramius@gmail.com>
  */
-interface MultiGetCache
+interface ExceptionInterface
 {
-    /**
-     * Returns an associative array of values for keys is found in cache.
-     *
-     * @param string[] $keys Array of keys to retrieve from cache
-     * @return mixed[] Array of retrieved values, indexed by the specified keys.
-     *                 Values that couldn't be retrieved are not contained in this array.
-     */
-    function fetchMultiple(array $keys);
 }
